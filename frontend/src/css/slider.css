@@ -1,0 +1,26 @@
+  
+  .overlay {
+    margin-top: 4.5%;
+    height: 100%;
+    width: 0%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color:white;
+    overflow-x: hidden;
+    transition: 0.2s;
+  }
+  
+  .tablecontent,.tableth,.tabletd {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  .tableth,.tabletd {
+    padding: 5px;
+    text-align: center;
+  }
+  .tablecontent{
+    width:90%;
+  }

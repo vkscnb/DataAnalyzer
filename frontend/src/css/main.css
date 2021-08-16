@@ -1,0 +1,38 @@
+/* body {
+    margin: 4rem 0;
+  }
+   
+  h4 {
+    margin-bottom:2rem;
+    margin-top: 3rem;
+  }
+  
+  .panel {
+    border-radius: 0.3rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    
+} */
+
+#div1 {
+  width: 150px;
+  height: 40px;
+  padding: 10px;
+  border: 1.6px dotted;
+  text-align: center;
+}
+
+#table1 {
+  width: 150px;
+  height: 40px;
+  padding: 10px;
+  border: 1.6px dotted;
+  text-align: center;
+}
+.divOutline{
+  width: 150px;
+  height: 40px;
+  padding: 10px;
+  border: 1.6px dotted;
+  text-align: center;
+}
