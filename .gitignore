@@ -1,0 +1,13 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/backend/__pycache__
+/backend/app/__pycache__
+
+/backend/app/migrations
+
+/backend/dataAnalyser/__pycache__
+
+/backend/db.sqlite3
+
+/venv
